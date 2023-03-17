@@ -1,4 +1,4 @@
-# Image OCR to Text
+# Extract Text from Images
 
 This script extracts text from images in a specified folder and its subfolders using OCR (Optical Character Recognition). The extracted text is saved to individual text files for each subfolder, and a list of images with no text extracted is displayed at the end.
 

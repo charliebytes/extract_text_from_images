@@ -47,7 +47,7 @@ pip install pillow pytesseract
 3. Enter the name of the folder containing the images when prompted.
 4. The script will process the images and save the extracted text to a series of text files, one for each subfolder. The files will be saved in the original directory and named in the format `subfolder_extracted_text_timestamp.txt`.
 
-### Debug Mode
+### Debug mode
 
 To save preprocessed images for debugging purposes, add the `--debug` flag when running the script, use the command `python extract_text_from_images.py --debug`.
 
